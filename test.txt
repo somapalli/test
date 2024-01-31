@@ -1,1 +1,11 @@
+Data Attribute Capture: Capture the necessary data attributes in the application intake form. This includes gathering all the required information from the user during the origination process.
 
+User Journey Flow: Define the user journey flow for both authentication and new user flows originating from the dot com site. This includes mapping out the steps and interactions involved in the process.
+
+Auto Populate Using Third-Party Integration for New Users: Implement an automated process to populate relevant data for new users using third-party integration. This ensures a seamless onboarding experience by pre-filling certain information based on external data sources.
+
+Auto Populate Using Third-Party Integration for Existing Users: Enable auto-population of data for existing users through third-party integration. This allows for the retrieval of up-to-date information and reduces the need for manual data entry.
+
+Identify Data Element Changes Requiring Manual Review: Identify any changes in data elements that may require manual review during the existing user flow. This ensures that updates or modifications to certain data elements are appropriately reviewed before being incorporated into the system.
+
+Data Access Requirement for Authorized User Viewing: Establish data access requirements to determine if a user is authorized to view existing auto-populated information. This ensures that sensitive or restricted information is only accessible to authorized individuals.
