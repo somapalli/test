@@ -1,1 +1,42 @@
 
+HTTP Method and Status: Use the appropriate HTTP methods for different operations. For example, use the POST method to create a new item of a specified type in a collection. The HTTP status codes provide information about the outcome of the request. Some commonly used status codes include:
+
+200 OK: The request was successful.
+201 Created: The request was successfully fulfilled and resulted in the creation of one or more new resources.
+202 Accepted: The request has been accepted for processing, but the processing has not been completed yet.
+206 Partial Content: The server has fulfilled the partial GET request.
+207 Multi-Status: The response contains multiple status codes for different parts of the request 
+.
+HTTP Error Codes: Handle errors gracefully by using appropriate HTTP error codes. Some commonly used error codes include:
+
+400 Bad Request: The server cannot process the request due to invalid syntax or other client-side errors.
+401 Unauthorized: The request requires user authentication.
+403 Forbidden: The server understood the request, but the client does not have permission to access the requested resource.
+409 Conflict: The request could not be fulfilled due to a conflict with the current state of the target resource.
+405 Method Not Allowed: The requested method is not allowed for the specified resource.
+415 Unsupported Media Type: The server does not support the media type of the request.
+422 Unprocessable Entity: The server understands the request syntax, but the request contains invalid or unexpected data 
+.
+URI Resource Nomenclature: Use a consistent and meaningful naming convention for URIs to represent resources. This helps in organizing and identifying different endpoints and resources within the API.
+
+Error Response Template: Define a standardized error response template that includes essential information such as an error ID, timestamp, error code, error message, and reason for the error. This template can be used to provide consistent error responses across different API endpoints.
+
+Idempotency: Consider implementing idempotency to ensure that multiple identical requests have the same effect as a single request. This can help prevent unintended side effects when requests are retried or duplicated.
+
+Tokenization or Masking PII Data: When returning data that includes Personally Identifiable Information (PII), consider tokenizing or masking the sensitive information to protect user privacy and comply with data protection regulations.
+
+Data Types, Sizes, and Restricted Characters: Clearly define the supported data types, their sizes, and any restricted characters for request and response payloads. This helps ensure data integrity and prevent issues related to data validation and processing.
+
+Message Integrity: Implement hashing algorithms to ensure message integrity during transmission. This can help detect any unauthorized modifications or tampering of the data.
+
+Payload Encryption: Consider encrypting sensitive data in the request and response payloads to protect it from unauthorized access or interception.
+
+Use Case Recipe: Provide detailed documentation and examples of common use cases to guide business partners in using the API effectively. This can include step-by-step instructions, code snippets, and explanations of expected outcomes.
+
+Test Data: Provide sample test data that can be used by business partners to validate their integrations with the API. This helps ensure that the API functions as expected in different scenarios.
+
+Documentation of Error Codes and Messages: Document all the error codes and corresponding error messages that can be returned by the API. This helps business partners understand the possible errors they may encounter and how to handle them.
+
+Multiple Examples of Request and Response: Include multiple examples of both successful and failed requests and responses to illustrate different scenarios. This can help business partners understand the expected format and structure of the API requests and responses.
+
+Date Time Format: Follow the ISO 8601 standard for date and time formatting to ensure consistency and interoperability across different systems.
