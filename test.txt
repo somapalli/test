@@ -1,8 +1,1 @@
 
-Transmit Authentication: The scope of this project involves migrating legacy authentication to transmit authentication, which includes both first-factor authentication and step-up authentication, while ensuring that the user experience remains unchanged. Additionally, a solution needs to be built to allow the coexistence of the legacy authentication model and the new authentication model, enabling the migration of users in a phased manner.
-
-
-Cross-Channel User Approval: In the web channel, users will log in and be prompted with step-up authentication after the initial authentication is completed. One of the step-up authentication delivery options will be mobile app authentication. When users select this option, a push notification will be sent to their enrolled mobile device via the existing mobile app. Opening the app will trigger user authentication, transferring the session back to the web channel for verification completion and granting access to the target page. As part of mobile enrollment, we will add this option as a step authentication delivery method. This will serve as a proof of concept to ensure that everything functions correctly.
-
-
-If you have any further requests or need assistance with another topic, please let me know, and I'll be happy to help.
