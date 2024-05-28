@@ -1,12 +1,1 @@
 
-Problem Statement:
-Currently, clients who are part of a joint venture need to go through a manual onboarding process that involves navigating through various screens and applications. This process is time-consuming and inefficient.
-
-Solution Approach:
-To address this issue, we propose automating the onboarding process for joint venture clients. This can be achieved through a combination of client self-service and sales-assisted approaches.
-
-The client self-service approach begins with the dot.com site, where joint venture users can apply and complete the application process. Once the application is submitted, a lead and opportunity will be created within Salesforce. The sales associate will then follow the existing process to complete the opportunity. Once the opportunity is closed, an onboarding request will be submitted, enriching the data as necessary.
-
-The onboarding flow will orchestrate the collection of any required information or documentation from the client. It will then move to the review and approval stage, where the necessary approvals will be obtained. After approval, the flow will proceed to provisioning. This involves making a call to the payment processor for screening and setting up the merchant account. Once the merchant account is set up, a call will be made to the vendor to configure the payment gateway. Finally, active services and equipment will be enabled, and the shipment of equipment will be ordered.
-
-In a later phase, after the minimum viable product (MVP) is implemented, there will be additional screening processes for payfac clients. This will include Know Your Customer (KYC) and risk underwriting processes. Once the screening is completed, the same onboarding services will be orchestrated to set up the merchant account, activate the services and equipment, and order the shipment of equipment.
