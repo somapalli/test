@@ -1,1 +1,24 @@
 
+curl --location 'https://www.zohoapis.com/billing/v1/subscriptions' \
+--header 'Authorization: Zoho-oauthtoken 1000.eb7a5d3d6047396bc03524cac5d426d8.8857ff6bc58fd308ca52024a0f94c76a' \
+--header 'X-com-zoho-subscriptions-organizationid:  642808420' \
+--header 'content-type:  application/json' \
+--header 'Cookie: JSESSIONID=68C90EA24269F3AE37E02430EEF8A4D2; _zcsr_tmp=29588698-12d4-4e91-981f-f2a455f1d3e3; zalb_a8c51ae498=8a20c33ee797fb0929ed68f86a190165; zsmcscook=29588698-12d4-4e91-981f-f2a455f1d3e3' \
+--data-raw '{
+    "customer": {
+        "display_name": "Bowman Furniture",
+        "first_name": "Benjamin",
+        "last_name": "George",
+        "email": "sathish77@yopmail.com",
+        "plan": {
+        "plan_code": "retailEnterprisePlanMonthly",
+        "quantity" : 2
+        },
+        "addons" : [
+            {
+            "addon_code": "KioskM",
+             "quantity" : 2
+            }
+        ]
+    }
+}'
