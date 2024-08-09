@@ -1,1 +1,84 @@
-
+{
+	"info": {
+		"_postman_id": "f91b3389-cc14-4c15-951a-93a0683834aa",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "36501714"
+	},
+	"item": [
+		{
+			"name": "https://www.zohoapis.com/billing/v1/subscriptions",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Zoho-oauthtoken 1000.cff00feb82777c90acb8fe279228f92e.5efaf65417964553b196d5956f21295b",
+						"type": "text"
+					},
+					{
+						"key": "X-com-zoho-subscriptions-organizationid",
+						"value": " 642808420",
+						"type": "text"
+					},
+					{
+						"key": "content-type",
+						"value": " application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"customer\": {\r\n        \"display_name\": \"Bowman Furniture\",\r\n        \"first_name\": \"Benjamin\",\r\n        \"last_name\": \"George\",\r\n        \"email\": \"sathish77@yopmail.com\",\r\n        \"plan\": {\r\n        \"plan_code\": \"retailEnterprisePlanMonthly\",\r\n        \"quantity\" : 2\r\n        },\r\n        \"addons\" : [\r\n            {\r\n            \"addon_code\": \"KioskM\",\r\n             \"quantity\" : 2\r\n            }\r\n        ]\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://www.zohoapis.com/billing/v1/subscriptions"
+			},
+			"response": []
+		},
+		{
+			"name": "auth",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://accounts.zoho.com/oauth/v2/token?grant_type=refresh_token&client_id=1000.NZS34HJFT5ZM8M0WWKYLZF66KR8WYG&client_secret=e8b748ffd893589d20d689b017a384f3ab9b4c8ab7&refresh_token=1000.2fdae513401594b22a00813ed093526a.d6971b1213addcea4f269624864520fb",
+					"protocol": "https",
+					"host": [
+						"accounts",
+						"zoho",
+						"com"
+					],
+					"path": [
+						"oauth",
+						"v2",
+						"token"
+					],
+					"query": [
+						{
+							"key": "grant_type",
+							"value": "refresh_token"
+						},
+						{
+							"key": "client_id",
+							"value": "1000.NZS34HJFT5ZM8M0WWKYLZF66KR8WYG"
+						},
+						{
+							"key": "client_secret",
+							"value": "e8b748ffd893589d20d689b017a384f3ab9b4c8ab7"
+						},
+						{
+							"key": "refresh_token",
+							"value": "1000.2fdae513401594b22a00813ed093526a.d6971b1213addcea4f269624864520fb"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
