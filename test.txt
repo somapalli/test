@@ -1,1 +1,24 @@
+Objective: The objective of this project is to streamline the KYC process for onboarding commercial users by capturing the current state, identifying areas for improvement, and designing a future-state solution that automates and digitizes the collection of necessary KYC information from customers. This will enhance efficiency, improve the user experience, and ensure compliance with regulatory requirements.
 
+Deliverables:
+
+Current Process Assessment:
+
+Document the existing KYC process for onboarding commercial users.
+Analyze current workflows, data collection methods, and customer interactions to create a baseline for improvement.
+Gap Analysis and Improvement Opportunities:
+
+Identify gaps, inefficiencies, and areas of opportunity within the current KYC flow.
+Propose solutions to optimize the process, reducing manual interventions and streamlining data capture.
+Journey Map:
+
+Develop a detailed journey map outlining the end-to-end KYC process for commercial users.
+Highlight key touchpoints, pain points, and opportunities for enhancing customer experience throughout the onboarding process.
+Future State Design:
+
+Define a future state where the KYC process is fully automated and digitized, minimizing manual inputs and improving data accuracy.
+Specify how necessary KYC information will be efficiently gathered from customers through digital means, while ensuring a smooth and compliant onboarding experience.
+High-Level Architecture:
+
+Provide a high-level architecture blueprint that outlines the technical infrastructure required to support the automated KYC process.
+Detail the system integrations, data flow, and security measures needed to ensure seamless and secure KYC data processing.
