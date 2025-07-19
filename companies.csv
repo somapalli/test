@@ -1,0 +1,201 @@
+company_id,name,industry
+C0,Byrd-Anderson,Computer games developer
+C1,Burton Ltd,Textile designer
+C2,Archer-Krause,Early years teacher
+C3,Stewart Ltd,Ecologist
+C4,Lawrence-Wu,Chartered certified accountant
+C5,Mcguire LLC,"Therapist, nutritional"
+C6,Reynolds-Davies,Production engineer
+C7,Wilcox-Douglas,Marketing executive
+C8,Lynch-Thompson,Music therapist
+C9,Weaver Ltd,Education administrator
+C10,"Curtis, Maldonado and Sullivan",Sport and exercise psychologist
+C11,"Kelly, Thomas and Roberts",Technical sales engineer
+C12,"Rowland, Hahn and Rodgers",Chartered public finance accountant
+C13,"Peterson, Ayala and Lindsey","Engineer, chemical"
+C14,Allen Inc,Illustrator
+C15,Hansen Ltd,Science writer
+C16,"Lee, Kim and Dixon",Chartered legal executive (England and Wales)
+C17,Hill-Whitehead,Gaffer
+C18,Goodwin LLC,"Pilot, airline"
+C19,Mason and Sons,Government social research officer
+C20,"Porter, Lyons and Morris",Research scientist (maths)
+C21,Brooks Group,Counsellor
+C22,"Chavez, Green and Marsh","Administrator, arts"
+C23,Ochoa LLC,"Exhibitions officer, museum/gallery"
+C24,Clay Inc,Lobbyist
+C25,Mayo-Holden,Civil Service fast streamer
+C26,Hunter PLC,IT consultant
+C27,"Miller, Jones and Kennedy",Fish farm manager
+C28,"Banks, Diaz and Garza","Scientist, audiological"
+C29,Romero-Hickman,Logistics and distribution manager
+C30,Brady and Sons,Arts administrator
+C31,"Ward, Stevens and Stephens",Textile designer
+C32,Armstrong LLC,Town planner
+C33,"Nelson, Vega and Soto",Facilities manager
+C34,Jackson and Sons,Engineering geologist
+C35,Cooper Inc,"Engineer, manufacturing systems"
+C36,Watson-Bryant,"Solicitor, Scotland"
+C37,"Davis, Rodriguez and Ward","Administrator, sports"
+C38,"Quinn, Dudley and Humphrey",Translator
+C39,Merritt Group,Maintenance engineer
+C40,Gamble-Sullivan,"Scientist, product/process development"
+C41,"Key, White and Berger",Warehouse manager
+C42,"Gonzalez, Harper and Bradford",Interior and spatial designer
+C43,Mason PLC,Chartered public finance accountant
+C44,"Walker, Castillo and Juarez",Training and development officer
+C45,Harris-Jackson,Recycling officer
+C46,"Johnson, Perry and Schneider",Animator
+C47,"Webster, Moreno and Solomon",Best boy
+C48,"Yu, Sanchez and Ayala",Dance movement psychotherapist
+C49,Landry Inc,Senior tax professional/tax inspector
+C50,"Bell, Perez and Gaines","Scientist, audiological"
+C51,Mcgee Inc,Visual merchandiser
+C52,Martin Ltd,Archivist
+C53,Flowers and Sons,Purchasing manager
+C54,"Montgomery, Cooper and Cunningham",Psychiatrist
+C55,"Walker, Rodriguez and Johnson",Building surveyor
+C56,Cervantes Group,Higher education lecturer
+C57,Burton-Wilson,Accounting technician
+C58,Mcgee-Gallagher,Medical secretary
+C59,"Mayer, Novak and Williams","Scientist, product/process development"
+C60,"Mccormick, Sanchez and Washington","Teacher, secondary school"
+C61,Moore-Farrell,English as a second language teacher
+C62,Jackson LLC,"Teacher, English as a foreign language"
+C63,Smith-Miller,Armed forces technical officer
+C64,Fields-Miller,Prison officer
+C65,"Rosales, Lee and Moore",Secretary/administrator
+C66,Smith-Weaver,Editorial assistant
+C67,Jennings-Keith,Occupational hygienist
+C68,Rogers-Young,Estate manager/land agent
+C69,Stout Group,"Education officer, environmental"
+C70,"Vega, Wilson and Flores",Arboriculturist
+C71,Richardson-Anderson,Advertising copywriter
+C72,Johnson LLC,Ceramics designer
+C73,Holmes Ltd,Training and development officer
+C74,"Chandler, Jackson and Figueroa",Clinical molecular geneticist
+C75,Pollard-Hughes,Automotive engineer
+C76,Turner-Lopez,Probation officer
+C77,"Weeks, White and Hardin",Paramedic
+C78,"Lozano, Johnson and Irwin",Environmental health practitioner
+C79,Simpson LLC,Corporate investment banker
+C80,Matthews-Simmons,Contracting civil engineer
+C81,Gilbert-Howard,"Civil engineer, consulting"
+C82,Lozano Inc,Homeopath
+C83,Lowery and Sons,"Surveyor, minerals"
+C84,Miller-Church,"Nurse, mental health"
+C85,Reyes Group,Radiation protection practitioner
+C86,"Hall, Hansen and Fernandez",Ship broker
+C87,Rogers Ltd,Water engineer
+C88,"Lee, Mcdonald and Wood",Advertising account planner
+C89,Brown LLC,Research scientist (life sciences)
+C90,Adams-West,"Runner, broadcasting/film/video"
+C91,Huang-Chambers,Occupational hygienist
+C92,"Suarez, Smith and Stark","Scientist, marine"
+C93,"Espinoza, Ellis and Hess",Race relations officer
+C94,"Blevins, White and Jones",Horticultural therapist
+C95,"Meyers, Gibson and Jones",Visual merchandiser
+C96,"Evans, White and Murray",Maintenance engineer
+C97,Cook Group,Video editor
+C98,"Thomas, Morales and Lopez","Psychotherapist, dance movement"
+C99,Kaiser Group,Photographer
+C100,"Lawson, Wilkinson and Vega","Radiographer, therapeutic"
+C101,"Lawson, Harrison and Jackson","Education officer, museum"
+C102,Martinez-Valdez,Retail buyer
+C103,"Strong, King and Frank",Financial adviser
+C104,"Romero, Quinn and Hubbard",Architectural technologist
+C105,Fischer-Grant,Merchant navy officer
+C106,Cole-Williams,Haematologist
+C107,"Dennis, Scott and Martinez",Herpetologist
+C108,Richardson-Grant,Financial controller
+C109,Thompson-Sherman,Public relations officer
+C110,Phillips and Sons,"Designer, blown glass/stained glass"
+C111,Brown-Rodriguez,Manufacturing systems engineer
+C112,"Hill, Duran and Kramer",Marketing executive
+C113,"Cannon, Reynolds and Fischer","Scientist, research (maths)"
+C114,"Smith, Allen and Murray","Engineer, production"
+C115,Garrett Group,Personnel officer
+C116,"Harper, Ochoa and Martinez",Professor Emeritus
+C117,"Collins, Harris and Rodriguez",Visual merchandiser
+C118,Thompson Ltd,"Restaurant manager, fast food"
+C119,Finley-Ford,Geographical information systems officer
+C120,Ward Inc,Chemical engineer
+C121,"Jones, Miller and Garcia",Web designer
+C122,Brown Inc,Fish farm manager
+C123,"Mercer, Davis and Curtis",Dramatherapist
+C124,Taylor Group,"Geologist, engineering"
+C125,Pratt Inc,"Librarian, academic"
+C126,"Ward, Owens and Sosa",Tax inspector
+C127,Sullivan Ltd,Therapeutic radiographer
+C128,Franklin-Randolph,Land
+C129,Leach-Logan,International aid/development worker
+C130,Pierce Inc,Chief Executive Officer
+C131,"Gonzalez, Santiago and Boyle",Diagnostic radiographer
+C132,White Ltd,Film/video editor
+C133,Prince-Klein,Broadcast engineer
+C134,"Chase, Mendoza and White",Arts administrator
+C135,Page-Patterson,Medical technical officer
+C136,Freeman Group,Energy engineer
+C137,Watkins-Lewis,Catering manager
+C138,"Booth, Simpson and Stuart",Chief Operating Officer
+C139,Ferguson-Parker,"Editor, magazine features"
+C140,"Collins, Marshall and Davis",Retail manager
+C141,"Morales, Stephens and Atkins",Set designer
+C142,"Stewart, Knapp and Delacruz",Administrator
+C143,Soto PLC,Broadcast engineer
+C144,Davis and Sons,Counselling psychologist
+C145,"Schmitt, Copeland and Shields",Television floor manager
+C146,Fields Ltd,Colour technologist
+C147,"Becker, Rivera and Jacobson",Prison officer
+C148,Rogers-Collins,Licensed conveyancer
+C149,Diaz-Santiago,Hospital doctor
+C150,Shaffer-Sexton,Purchasing manager
+C151,Harris and Sons,Medical sales representative
+C152,"Camacho, Russell and Baker",Osteopath
+C153,Nicholson LLC,"Education officer, community"
+C154,"Peterson, Collier and Ward",Maintenance engineer
+C155,Schmitt-Daniels,Catering manager
+C156,Johnson Group,Web designer
+C157,Harris-Lester,Communications engineer
+C158,"Garcia, Myers and West",Water quality scientist
+C159,Foster-Myers,"Engineer, civil (consulting)"
+C160,Maldonado-Rodriguez,Computer games developer
+C161,Jones-Frye,"Journalist, magazine"
+C162,Hutchinson-Moore,Medical illustrator
+C163,Gibson-Meyer,Phytotherapist
+C164,"Gordon, Watson and Sullivan",Research scientist (physical sciences)
+C165,Moran-Rivera,"Engineer, control and instrumentation"
+C166,Mercado and Sons,Energy manager
+C167,"Padilla, Fletcher and Ross","Editor, magazine features"
+C168,Good-Anderson,Medical illustrator
+C169,Garcia Inc,"Engineer, broadcasting (operations)"
+C170,"Hardy, Black and Duran",Manufacturing engineer
+C171,Anderson PLC,"Surveyor, building control"
+C172,Barnes Inc,Print production planner
+C173,Wilson LLC,Retail merchandiser
+C174,Lowery Inc,Paediatric nurse
+C175,"Browning, Nguyen and Mcdonald","Designer, interior/spatial"
+C176,"Coleman, Smith and Allen",Immigration officer
+C177,"Stevens, Torres and Johnson",Optometrist
+C178,"Reed, Holmes and Gibson",Health promotion specialist
+C179,Holmes-Garcia,"Engineer, civil (contracting)"
+C180,Grant-Serrano,Sub
+C181,Leon-Ortega,Community development worker
+C182,Martin Group,Insurance account manager
+C183,Warner-Kramer,Theatre director
+C184,"Chandler, Warren and Henderson",Cartographer
+C185,"Drake, Kennedy and Edwards","Surveyor, building control"
+C186,"Sanders, Webb and Olson",Archaeologist
+C187,Reed and Sons,"Conservator, furniture"
+C188,Shaffer Inc,Advertising account planner
+C189,"Stanley, Chapman and Payne",Call centre manager
+C190,Brown-Garcia,Estate agent
+C191,Long-Rosario,"Designer, industrial/product"
+C192,Palmer Ltd,Interpreter
+C193,Anderson LLC,Architect
+C194,"Wallace, Roberts and Knight","Research officer, trade union"
+C195,Taylor Group,Counselling psychologist
+C196,"Juarez, Knapp and Soto",Bookseller
+C197,"Cochran, Warren and Hamilton","Conservator, museum/gallery"
+C198,"Benton, Hernandez and Wilkerson",Toxicologist
+C199,"Sanchez, Walker and Walker",Special educational needs teacher
